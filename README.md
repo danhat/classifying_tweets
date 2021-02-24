@@ -44,4 +44,11 @@ $ cd ../tweets
 $ py tweets.py
 ```
 
-or open the jupyter notebook titled 'tweets.py'
+or open the jupyter notebook [here](tweets.ipynb)
+
+
+
+## Sources
+* [twitter API](https://dev.twitter.com/overview/api)
+* [nltk](http://www.nltk.org/genindex.html) 
+* [sklearn](http://scikit-learn.org/stable/modules/classes.html)
